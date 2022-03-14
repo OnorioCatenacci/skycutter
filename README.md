@@ -4,4 +4,4 @@ This is a utility to allow us to use [Rosie Pattern Language](https://gitlab.com
 
 ## The Name
 
-I have never been very good at coming up with names but at this point in history it wasn't hard to come up with one.  I've been a fan of domesticated pigeons most of my life and the Ukranian Skycutter is a breed I've heard quite a bit about.  This name is just a small way of expressing my admiration for the brave people of the Ukraine. 
+I have never been very good at coming up with names but at this point in history it wasn't hard to come up with one.  I've been a fan of domesticated pigeons most of my life and the [Ukranian Skycutter](https://www.roysfarm.com/ukrainian-skycutter-pigeon/) is a breed I've heard quite a bit about.  This name is just a small way of expressing my admiration for the brave people of the Ukraine. 
