@@ -1,6 +1,6 @@
 # Skycutter
 
-This is a utility to allow us to use [Rosie Pattern Language] (https://gitlab.com/rosie-pattern-language/rosie) in conjunction with Elixir.  The idea is to allow multiple instances of Rosie to run in order to search logs and to use Elixir to control the multiple instances. 
+This is a utility to allow us to use [Rosie Pattern Language](https://gitlab.com/rosie-pattern-language/rosie) in conjunction with Elixir.  The idea is to allow multiple instances of Rosie to run in order to search logs and to use Elixir to control the multiple instances. 
 
 ## The Name
 
